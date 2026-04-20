@@ -33,3 +33,7 @@ int main ()
     NoNelektronik.kategori = "Pisau";
     NoNelektronik.tanggal_produksi = "02 April 2026";
 
+    elektronik.printdata();
+    NoNelektronik.printdata();
+}
+
